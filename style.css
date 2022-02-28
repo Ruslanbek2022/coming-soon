@@ -1,0 +1,63 @@
+body{
+    margin:0;
+    font-family: "  Sofia", serif;
+    font-style: italic;
+    background-color: red;
+    width: 99%;
+  }
+  
+  main{
+    background-image: url("https://resources.stuff.co.nz/content/dam/images/4/y/w/m/f/w/image.related.StuffLandscapeSixteenByNine.1420x800.4ywmg3.png/1641862419694.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+  background-size: cover;
+  
+    height:699px;
+    width: 100%;
+   padding-bottom: 50px;
+    margin-top: 30px;
+    margin-left: 5px;
+    color: 5px rgb(109, 235, 25);
+    position: relative;
+   
+   
+  }
+  
+  hr {
+    width:100px;
+    }
+  
+  .absolute {
+    position: absolute;
+    font-size: 25px;
+  padding: 30px 15px;
+    margin: 11px;
+  }
+  .logo{
+    top:5px;
+    left: 5px;
+  }
+  
+  .about {
+    top: -72px;
+    right: -18px;
+    color: red;
+  }
+  
+  .powered {
+    bottom:-69px;
+    left:-18px;
+    color:red;
+  }
+  .seytech{
+    bottom: -72px;
+    right: -18px;
+    color:red;
+  }
+  section{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    text-align:center;
+  }
